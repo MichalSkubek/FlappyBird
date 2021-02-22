@@ -138,12 +138,12 @@ class _HomePageState extends State<HomePage> {
         else if (barrierX1.abs() < (60.0 + 100.0) / screenWidth) {
           // Check y level
           // Up barrier
-          if (-1.05 + 2 * barrierTop1 / screenHeight > birdYPos) {
+          if (-1.1 + (2 * barrierTop1  + 30.0) / screenHeight > birdYPos) {
             timer.cancel();
             gameStarted = false;
             crashed = true;
           }
-          else if (1.05 - 2 * barrierBottom1 / screenHeight < birdYPos) {
+          else if (1.1 - (2 * barrierBottom1 +  30.0) / screenHeight < birdYPos) {
             timer.cancel();
             gameStarted = false;
             crashed = true;
@@ -158,12 +158,12 @@ class _HomePageState extends State<HomePage> {
         else if (barrierX2.abs() < (60.0 + 100.0) / screenWidth) {
           // Check y level
           // Up barrier
-          if (-1.05 + 2 * barrierTop2 / screenHeight > birdYPos) {
+          if (-1.1 + (2 * barrierTop2 + 30.0) / screenHeight > birdYPos) {
             timer.cancel();
             gameStarted = false;
             crashed = true;
           }
-          else if (1.05 - 2 * barrierBottom2 / screenHeight < birdYPos) {
+          else if (1.1 - (2 * barrierBottom2 + 30.0) / screenHeight < birdYPos) {
             timer.cancel();
             gameStarted = false;
             crashed = true;
