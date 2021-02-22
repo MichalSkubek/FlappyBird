@@ -3,8 +3,8 @@
 Simple flappy bird app written in flutter+dart
 
 ## Screenshots
-![](./ss/start.png =250x)
-![](./ss/restart.png =250x)
+![](./ss/start.png)
+![](./ss/restart.png)
 
 >## ToDo List:
 >- Colision detection improvement
