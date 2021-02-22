@@ -4,7 +4,7 @@ Simple flappy bird app written in flutter+dart
 
 ## Screenshots
  <img src="./ss/start.png" width="300">
-![](./ss/restart.png)
+ <img src="./ss/restart.png" width="300">
 
 >## ToDo List:
 >- Colision detection improvement
