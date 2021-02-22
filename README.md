@@ -8,10 +8,10 @@ Simple flappy bird app written in flutter+dart
 
 >## ToDo List:
 >- Colision detection improvement
->- More fair generating of new pipes
+>- More fair generation of new pipes
 >- Saving best score
 
 ## Sources
-- [Video tutorial](https://www.youtube.com/watch?v=vgmVPpFP0fI)
+- [MitchKoko tutorial](https://www.youtube.com/watch?v=vgmVPpFP0fI)
   - Bird generation
   - Jump mechanic
