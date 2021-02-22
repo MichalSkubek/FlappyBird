@@ -3,7 +3,7 @@
 Simple flappy bird app written in flutter+dart
 
 ## Screenshots
-![](./ss/start.png)
+ <img src="./ss/start.png" width="300">
 ![](./ss/restart.png)
 
 >## ToDo List:
