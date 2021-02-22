@@ -1,16 +1,17 @@
-# flappy_bird
+# Flappy Bird
 
-Flappy bird app from tutorial
+Simple flappy bird app written in flutter+dart
 
-## Getting Started
+## Screenshots
+![Home screen!](/ss/start.png "Home screen")
+![Restart screen!](/ss/restart.png "Restart screen")
 
-This project is a starting point for a Flutter application.
+>## ToDo List:
+>- Colision detection improvement
+>- More fair generating of new pipes
+>- Saving best score
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Sources
+- [Video tutorial](https://www.youtube.com/watch?v=vgmVPpFP0fI)
+  - Bird generation
+  - Jump mechanic
