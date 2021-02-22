@@ -3,8 +3,8 @@
 Simple flappy bird app written in flutter+dart
 
 ## Screenshots
-![Home screen!](/ss/start.png "Home screen")
-![Restart screen!](/ss/restart.png "Restart screen")
+![Home screen!](/ss/start.png=300px "Home screen")
+![Restart screen!](/ss/restart.png=300px "Restart screen")
 
 >## ToDo List:
 >- Colision detection improvement
